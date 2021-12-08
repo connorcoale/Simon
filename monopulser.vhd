@@ -1,6 +1,5 @@
 ----------------------------------------------------------------------------------
--- Company: ENGS 31	
--- Engineer: Eric Hansen, Connor Coale
+-- Engineer: Eric Hansen, Modifications by Connor Coale
 -- 
 -- Create Date: 07/29/2020 12:03:46 AM
 -- Design Name: 

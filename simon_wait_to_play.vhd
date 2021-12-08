@@ -1,5 +1,4 @@
 ----------------------------------------------------------------------------------
--- Company: ENGS 31
 -- Engineer: Noah Daniel
 -- 
 -- Create Date: 08/26/2020 09:00:53 PM
@@ -19,25 +18,7 @@
 
 
 ----------------------------------------------------------------------------------
--- Company: ENGS 31
--- Engineer: Noah Daniel
--- 
--- Create Date: 08/22/2020 01:24:32 AM
--- Design Name: delay counter between incrementing level and playing sequence
--- Module Name: simon_wait_to_play counter - Behavioral
--- Project Name: Simon Game
--- Target Devices: 
--- Tool Versions: 
--- Description: 
--- 
--- Dependencies: 
--- 
--- Revision:
--- Revision 0.01 - File Created
--- Additional Comments:
--- This counter is for the wait_to_play sequence, to provide a delay between evaluation
---and playing the next sequence, for a smoother game play
-----------------------------------------------------------------------------------
+
 
 
 library IEEE;

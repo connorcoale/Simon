@@ -1,5 +1,4 @@
 ----------------------------------------------------------------------------------
--- Company: ENGS 31
 -- Engineer: Noah Daniel
 -- 
 -- Create Date: 08/23/2020 06:01:46 PM
@@ -15,7 +14,7 @@
 -- Revision:
 -- Revision 0.01 - File Created
 -- Additional Comments:
--- --this component works by evaluating the user input (btn_id) and comparing it to the corresponding value stored in sequence memory (R_data) 
+--this component works by evaluating the user input (btn_id) and comparing it to the corresponding value stored in sequence memory (R_data) 
 --if btn_id equals R_data, then the user must have pressed the correct button, so eval_indx increments, so the next time this component runs, R_data 
 --(indexxed by eval_index) will correspond to the next button press in the sequence. If eval_indx equals the current level of the game,  
 --then sequence_tc goes high, indicating that the user has completed a level - eval_indx then resets. If btn_id does not match R_data, then correct

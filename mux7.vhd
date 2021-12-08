@@ -1,8 +1,5 @@
-
-
 ----------------------------------------------------------------------------------
--- Company: Engs 31 16X
--- Engineer: E.W. Hansen (small modfication by Noah and Connor)
+-- Engineer: E.W. Hansen (with modfication by Noah Daniel and Connor Coale)
 --
 -- Create Date:        17:56:35 07/25/2008
 -- Design Name:

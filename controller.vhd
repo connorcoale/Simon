@@ -1,5 +1,4 @@
 ----------------------------------------------------------------------------------
--- Company: ENGS 31
 -- Engineer: Noah Daniel and Connor Coale
 -- 
 -- Create Date: 08/22/2020 01:24:32 AM
